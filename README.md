@@ -16,7 +16,7 @@ B. Python packages:
 * Numpy (http://www.numpy.org/)
 * Matplotlib (http://matplotlib.org/)
 
-Running ChIPdenovo
+Running NgramMotif
 ------------------
 #### Command-line usage:
     python NgramMotif.py -b <Bedfile> -m <MOTIFname> -r <reference_genome.fasta>[opts]
